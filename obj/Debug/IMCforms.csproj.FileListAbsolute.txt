@@ -1,0 +1,10 @@
+C:\Users\pablo.aramos\source\repos\IMCforms\IMCforms\bin\Debug\IMCforms.exe.config
+C:\Users\pablo.aramos\source\repos\IMCforms\IMCforms\bin\Debug\IMCforms.exe
+C:\Users\pablo.aramos\source\repos\IMCforms\IMCforms\bin\Debug\IMCforms.pdb
+C:\Users\pablo.aramos\source\repos\IMCforms\IMCforms\obj\Debug\IMCforms.csproj.AssemblyReference.cache
+C:\Users\pablo.aramos\source\repos\IMCforms\IMCforms\obj\Debug\IMCforms.Form1.resources
+C:\Users\pablo.aramos\source\repos\IMCforms\IMCforms\obj\Debug\IMCforms.Properties.Resources.resources
+C:\Users\pablo.aramos\source\repos\IMCforms\IMCforms\obj\Debug\IMCforms.csproj.GenerateResource.cache
+C:\Users\pablo.aramos\source\repos\IMCforms\IMCforms\obj\Debug\IMCforms.csproj.CoreCompileInputs.cache
+C:\Users\pablo.aramos\source\repos\IMCforms\IMCforms\obj\Debug\IMCforms.exe
+C:\Users\pablo.aramos\source\repos\IMCforms\IMCforms\obj\Debug\IMCforms.pdb
